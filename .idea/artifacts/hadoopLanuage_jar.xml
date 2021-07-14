@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hadoopLanuage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hadoopLanuage_jar</output-path>
+    <root id="archive" name="hadoopLanuage.jar">
+      <element id="module-output" name="hadoopLanuage" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../hadoop-mapreduce-client-common-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../hadoop-mapreduce-client-core-3.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
